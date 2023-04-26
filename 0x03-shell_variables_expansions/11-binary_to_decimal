@@ -1,2 +1,0 @@
-#!/bin/bash
-ehoo $((2#BINARY))
